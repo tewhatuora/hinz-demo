@@ -90,7 +90,7 @@ module.exports = async function createConfig() {
           respectPrefersColorScheme: true,
         },
         navbar: {
-          title: 'Example Collateral Hosting',
+          title: 'HINZ Demo',
           hideOnScroll: false,
           logo: {
             alt: 'Health New Zealand | Te Whatu Ora logo',
