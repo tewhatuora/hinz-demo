@@ -10,18 +10,18 @@ module.exports = async function createConfig() {
   const { remarkKroki } = await import('remark-kroki');
   return {
     title: 'Health New Zealand | Te Whatu Ora Standards Template',
-    favicon: '/standards-template/img/favicon-32x32.png',
+    favicon: '/hinz-demo/img/favicon-32x32.png',
 
     // Set the production url of your site here
-    url: 'https://middlewarenewzealand.github.io',
+    url: 'https://tewhatuora.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/standards-template/',
+    baseUrl: '/hinz-demo/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'tewhatuora', // Usually your GitHub org/user name.
-    projectName: 'standards-template', // Usually your repo name.
+    projectName: 'hinz-demo', // Usually your repo name.
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'throw',
@@ -94,8 +94,8 @@ module.exports = async function createConfig() {
           hideOnScroll: false,
           logo: {
             alt: 'Health New Zealand | Te Whatu Ora logo',
-            src: '/standards-template/img/two.svg',
-            srcDark: '/standards-template/img/two-dark-theme-logo.svg',
+            src: '/hinz-demo/img/two.svg',
+            srcDark: '/hinz-demo/img/two-dark-theme-logo.svg',
           },
           items: [
             {
@@ -103,7 +103,7 @@ module.exports = async function createConfig() {
               position: 'right',
             },
             {
-              href: 'https://github.com/tewhatuora/standards-template/issues',
+              href: 'https://github.com/tewhatuora/hinz-demo/issues',
               label: 'Raise issue',
               position: 'right',
               target: '_blank',
@@ -140,7 +140,7 @@ module.exports = async function createConfig() {
                   html: `
                       </br>
                       <a href="https://www.govt.nz" target="_blank" rel="noreferrer noopener" aria-label="Hiso">
-                        <img src="/standards-template/img/govt-nz.png" alt="Te Kāwanatanga o Aotearoa — New Zealand Government" style="float:left;width:7.5rem;height:auto;" />
+                        <img src="/hinz-demo/img/govt-nz.png" alt="Te Kāwanatanga o Aotearoa — New Zealand Government" style="float:left;width:7.5rem;height:auto;" />
                       </a>
                     `,
                 },
@@ -151,7 +151,7 @@ module.exports = async function createConfig() {
               items: [
                 {
                   label: 'Raise issue',
-                  href: 'https://github.com/tewhatuora/standards-template/issues',
+                  href: 'https://github.com/tewhatuora/hinz-demo/issues',
                 },
                 {
                   label: 'Hira Marketplace',
@@ -170,7 +170,7 @@ module.exports = async function createConfig() {
                       </br>
                       </br>
                       <a href="https://www.tewhatuora.govt.nz/health-services-and-programmes/digital-health/data-and-digital-standards/approved-standards" target="_blank" rel="noreferrer noopener" aria-label="Hiso">
-                        <img src="/standards-template/img/hiso-logo.png" alt="Hiso" style="width:300px;height:auto;" />
+                        <img src="/hinz-demo/img/hiso-logo.png" alt="Hiso" style="width:300px;height:auto;" />
                       </a>
                     `,
                 },

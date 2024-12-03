@@ -34,7 +34,7 @@ This repository suggests the use of PLANT UML diagrams as code, like the example
 
 You can insert images into your content, by storing them in the static/img directory and referencing within markdown
 
-<img src="/standards-template/img/content/image1.jpg" />
+<img src="/hinz-demo/img/content/image1.jpg" />
 
 <DetailedDescription text="Example Description"/>
 

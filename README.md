@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/tewhatuora/standards-template">
+  <a href="https://github.com/tewhatuora/hinz-demo">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./static/img/two-dark-theme-logo.svg">
       <img alt="Health New Zealand Te Whatu Ora Logo" src="./static/img/two.svg" width="50%">
@@ -16,9 +16,9 @@
     This GitHub repository serves as both a template example and user guide, of how to publish HNZ collateral (standards, guides, Glossaries etc) using github and the tooling built in to this project. The template is based on the HNZ API Standards developed by Middleware NZ for HNZ. The idea is that by copying and editing this project, more HNZ collateral can be published for consumption with minimum development effort <a href="https://apistandards.digital.health.nz">https://apistandards.digital.health.nz</a>.
     <br />
     <br />
-    <a href="https://tewhatuora.github.io/standards-template/">The example output</a>
+    <a href="https://tewhatuora.github.io/hinz-demo/">The example output</a>
     ·
-    <a href="https://github.com/tewhatuora/standards-template/issues">Submit feedback</a>
+    <a href="https://github.com/tewhatuora/hinz-demo/issues">Submit feedback</a>
   </p>
 </div>
 
@@ -52,13 +52,13 @@ Once you have [installed the GitHub client](https://github.com/cli/cli#installat
 To create a `private` repository
 
 ```bash
-gh repo create your-github-org/your-new-repo-name --template tewhatuora/standards-template --private
+gh repo create your-github-org/your-new-repo-name --template tewhatuora/hinz-demo --private
 ```
 
 To create a `public` repository
 
 ```bash
-gh repo create your-github-org/your-new-repo-name --template tewhatuora/standards-template --public
+gh repo create your-github-org/your-new-repo-name --template tewhatuora/hinz-demo --public
 ```
 
 This will create a repository in GitHub that you can now update as you please.
@@ -66,7 +66,7 @@ This will create a repository in GitHub that you can now update as you please.
 Example output
 
 ```sh
-  gh repo create tewhatuora/template-test1 --template tewhatuora/standards-template --public
+  gh repo create tewhatuora/template-test1 --template tewhatuora/hinz-demo --public
     ✓ Created repository tewhatuora/template-test1 on GitHub
       https://github.com/tewhatuora/template-test1
   git clone git@github.com:tewhatuora/template-test1.git

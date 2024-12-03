@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to provide feedback on these standards. To ensure that the best response is achieved please consider the following question.
-        - Are you raising an issue with the standards or are you seeking clarification or discussion on a standards item? If the later please check the [Discussions page](https://github.com/tewhatuora/standards-template/discussions)
+        - Are you raising an issue with the standards or are you seeking clarification or discussion on a standards item? If the later please check the [Discussions page](https://github.com/tewhatuora/hinz-demo/discussions)
   - type: textarea
     id: summary
     attributes:

@@ -4,9 +4,9 @@ The contents of this page is displayed on the deployed website at /community/con
 
 <div style={{ textAlign: 'left' }}>
   <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'left', gap: '80px', padding: '20px' }}>
-    <img src="/standards-template/img/mwnz.svg" alt="Middleware New Zealand"  style={{ width: '10%' }} />
-    <img src="/standards-template/img/two.svg" alt="Health NZ"  style={{ width: '25%' }} />
-    <img src="/standards-template/img/hiso-logo.png" alt="Hiso"  style={{ width: '25%', height:'30%' }} />
+    <img src="/hinz-demo/img/mwnz.svg" alt="Middleware New Zealand"  style={{ width: '10%' }} />
+    <img src="/hinz-demo/img/two.svg" alt="Health NZ"  style={{ width: '25%' }} />
+    <img src="/hinz-demo/img/hiso-logo.png" alt="Hiso"  style={{ width: '25%', height:'30%' }} />
   </div>
   <br/>
   <p>These Standards have been authored by <a href="https://www.middleware.co.nz/">Middleware New Zealand,</a> on behalf of Health NZ.</p>

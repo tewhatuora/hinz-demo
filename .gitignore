@@ -22,4 +22,4 @@ yarn-error.log*
 # IDE
 .project
 static/assets/api-standards.json
-static/assets/standards-template.json
+static/assets/hinz-demo.json

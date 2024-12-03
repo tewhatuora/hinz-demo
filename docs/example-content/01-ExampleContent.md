@@ -80,6 +80,6 @@ rectangle "Health Workforce"  as HWF {
 
 You can also insert static images into your content, by storing them in the static/img directory and referencing within markdown
 
-<img src="/standards-template/img/content/image1.jpg" />
+<img src="/hinz-demo/img/content/image1.jpg" />
 
 <DetailedDescription text="Example Description"/>

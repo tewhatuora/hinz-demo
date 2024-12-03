@@ -5,7 +5,7 @@ slug: /contact
 
 Its a good idea to provide some places for viewers to contact those behind your collateral.
 
-[visit the community on Github.](https://github.com/tewhatuora/standards-template)
+[visit the community on Github.](https://github.com/tewhatuora/hinz-demo)
 
 ## Email
 example@tewhatuora.govt.nz

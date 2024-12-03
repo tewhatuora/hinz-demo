@@ -43,4 +43,4 @@ If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to as
 
 ### Your contribution gets accepted
 
-When the SOF accepts your PR, they will merge it and your changes will shortly be reflected in the [working draft version](hhttps://tewhatuora.github.io/standards-template/draft). All going well, your change will also be incorporated into the next [published version](https://tewhatuora.github.io/standards-template) of the Standards.
+When the SOF accepts your PR, they will merge it and your changes will shortly be reflected in the [working draft version](hhttps://tewhatuora.github.io/hinz-demo/draft). All going well, your change will also be incorporated into the next [published version](https://tewhatuora.github.io/hinz-demo) of the Standards.
